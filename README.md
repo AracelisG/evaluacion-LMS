@@ -49,8 +49,6 @@ Dado el creciente uso de entornos virtuales de aprendizaje, resulta esencial con
 Canvas destaca por su interfaz intuitiva y accesibilidad, ideal para instituciones que buscan facilidad de uso y experiencia amigable. Blackboard ofrece robustez y profesionalismo, aunque puede ser menos flexible. Moodle es potente y personalizable, aunque su apariencia puede dificultar la experiencia inicial. La elección dependerá del contexto institucional, presupuesto y perfil del usuario final.
 
 ## 📚 Referencias bibliográficas
-- Siemens, G. (2005). *Connectivism: A Learning Theory for the Digital Age*. International Journal of Instructional Technology and Distance Learning.
-- Bates, T. (2015). *Teaching in a Digital Age*. BCcampus OpenEd.
 - Moodle Docs. (2024). [https://docs.moodle.org](https://docs.moodle.org)
 - Instructure. (2024). *Canvas LMS Guide*. [https://community.canvaslms.com](https://community.canvaslms.com)
 - Blackboard Help. (2024). [https://help.blackboard.com](https://help.blackboard.com)
